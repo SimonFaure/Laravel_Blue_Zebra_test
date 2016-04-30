@@ -1,7 +1,7 @@
 # Laravel_Blue_Zebra_Test
 
 
-Ce projet à l'attention de Blue Zebra a pour but l'utilisation du framework Laravel 5 à travers une micro application.
+Ce projet à l'attention de [Blue Zebra](https://http://www.bluezebra.fr/) a pour but l'utilisation du framework Laravel 5 à travers une micro application.
 
 Il contient:
   - 2 pages : liste de personnes et détail d'une personne
