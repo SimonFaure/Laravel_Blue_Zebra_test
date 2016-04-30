@@ -13,3 +13,5 @@ Il contient:
   - la mise en place de 2 ou 3 tests unitaires
   - une légère couche design avec Bootstrap ou un autre framework CSS de votre choix
   - une légère couche d'ergonomie en formatant les champs nom et prénom lors de la saisie (sous la forme Homer Simpson), la date de naissance et en faisant un contrôle de saisie sur le format de l'e-mail
+
+![micro app index page]https://github.com/SimonFaure/Laravel_Blue_Zebra_test/blob/master/laravel.png)
